@@ -16,7 +16,9 @@
  Redes de Computadores<br>
  Programador Web Java<br>
  Fundamentos AWS
-[<img src="https://tryhackme-badges.s3.amazonaws.com/str4is.png" alt="Your Image Badge" />](https://tryhackme.com/p/str4is)
+ 
+[<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/str4is.png" alt="Your Image Badge" />](https://tryhackme.com/p/str4is)
+
 ### 🏆 Conquistas:
 ♟️ 1º Lugar no torneio de xadrez da GRE Metro Norte - 2020
 
